@@ -60,10 +60,9 @@ I'm a **Full Stack Developer** & **Data Scientist** passionate about building sc
 
 ## 🎯 Featured Projects | 精选项目
 
-<!-- 你可以在这里添加你最优秀的项目 -->
-- 📌 [Project Name](#) - Brief description of what it does | 项目简要说明
-- 📌 [Project Name](#) - Brief description of what it does | 项目简要说明
-- 📌 [Project Name](#) - Brief description of what it does | 项目简要说明
+- 📌 [AI Research Docs](https://github.com/fengdejian987-sketch/ai-research-docs) - AI Research and Biomedical Modeling Documentation | AI研究和医学建模文档
+- 📌 [Yvwen](https://github.com/fengdejian987-sketch/Yvwen) - Software Model | 软件模型
+- 📌 [CORGIZ](https://github.com/fengdejian987-sketch/CORGIZ) - Documentation Hub | 文档中心
 
 ---
 
@@ -80,10 +79,10 @@ I'm a **Full Stack Developer** & **Data Scientist** passionate about building sc
 
 ## 📫 Let's Connect | 让我们联系
 
-- 🔗 [LinkedIn](#) 
-- 🐦 [Twitter](https://twitter.com) | 推特
+- 🔗 [LinkedIn](https://linkedin.com)
+- 🐦 [Twitter](https://twitter.com)
 - 📧 Email: your.email@example.com
-- 🌐 [Portfolio Website](#) | 作品集网站
+- 🌐 [Portfolio Website](https://yourwebsite.com)
 
 ---
 
